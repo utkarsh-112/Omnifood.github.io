@@ -38,7 +38,7 @@
 	}
 	.icon-small{
 		width: 17px;
-		margin-right: 10px;
+		margin-right: 5px;
 	}
 	.city-feature{
 		font-size: 90%;
@@ -66,7 +66,7 @@
 	.row,
 	.hero-text-box{
 		width: 100%;
-		padding: 0 4%;
+		padding: 0 0 4% 0;
 	}
 	.col{
 		width: 100%;
@@ -81,7 +81,7 @@
 	}
 	.main-nav{
 		float: left;
-		margin-top: 35px;
+		margin-top: 30px;
 		margin-left: 25px;
 	}
 	.main-nav li{
